@@ -1,4 +1,5 @@
 # newlist
+login işlemi pages içinde ,diğer işlemler component ve ListItem içersinde.
 
 > A Vue.js project
 
